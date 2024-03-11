@@ -35,5 +35,6 @@
     <img align="left" alt="Dnyan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </div> 
-</div>
+
 ⭐️ From [Dnyan](https://github.com/dnyandeep143)
+</div> 
