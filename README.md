@@ -20,4 +20,19 @@
   <p>
 </div> 
 
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://github.com/dnyandeep143">
+    <img align="left" alt="Dnyan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/dnyan_cxliii">
+    <img align="left" alt="Dnyan | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/dnyan_cxliii/">
+    <img align="left" alt="Dnyan | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:dnyanadeep.patil41@gmail.com">
+    <img align="left" alt="Dnyan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+</div> 
 ⭐️ From [Dnyan](https://github.com/dnyandeep143)
