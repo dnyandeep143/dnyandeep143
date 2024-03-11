@@ -22,7 +22,7 @@
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://github.com/dnyandeep143">
+  <a href="https://www.linkedin.com/in/dnyandeep-patil/">
     <img align="left" alt="Dnyan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/dnyan_cxliii">
@@ -35,6 +35,8 @@
     <img align="left" alt="Dnyan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </div> 
-
+<p>
+  
 ⭐️ From [Dnyan](https://github.com/dnyandeep143)
+  </p>
 </div> 
