@@ -1,15 +1,15 @@
-<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h1 align="center">Hey there! I'm Dnyandeep Arvind Patil 👋 </h1>
+<h3 align="center">🚀 Software Engineering Student | Frontend Developer | MERN Stack 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 🤔 &nbsp; Exploring new technologies and developing software.
+  - 🎓 &nbsp; Studying Computer Technology.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Editing as hobbies/side hustles.  
 </div> 
 </div>
 
@@ -20,4 +20,4 @@
   <p>
 </div> 
 
-⭐️ From [SAchu47](https://github.com/SAchu47)
+⭐️ From [Dnyan](https://github.com/dnyandeep143)
